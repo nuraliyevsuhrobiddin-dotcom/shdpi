@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BIOXATO.AI - Laboratory Protocol Analyzer",
+  "description": "An AI-powered scientific assistant that detects logical errors, safety violations, and reagent ratio mistakes in laboratory protocols for Biology, Chemistry, and Pharmacy students.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
